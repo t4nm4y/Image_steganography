@@ -1,12 +1,13 @@
 # Image_steganography
-  -A full GUI implemented mini software
-  
-  -It takes text messages and a key as input and hides them in a specified image
-  
-  -The image can only be decrypted by providing the key which the user has entered earlier while encrypting the message
+  - A full GUI implemented mini software
+  - It takes text messages and a key as input and hides them in a specified image
+  - The image can only be decrypted by providing the key which the user has entered earlier while encrypting the message
 
-### Technologies used: Python, Tkinter(for GUI)
-#### To view it on your local machine: Run the ImageS.py
+(To view it on your local machine: Run the ImageS.py)
+
+## Technologies used: 
+Python, Tkinter(for GUI)
+
 ## Screenshots
 ![image](https://github.com/t4nm4y/Image_steganography/assets/88146479/3611a032-1210-449b-a45b-c65f8c7d5468)
 
